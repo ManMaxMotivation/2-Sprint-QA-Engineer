@@ -1,0 +1,220 @@
+<mxfile host="app.diagrams.net" modified="2024-01-21T12:42:17.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uSbYUIqhyXXcgDU0jjoi" version="22.1.19" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="2389" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AKc9pMjTOJnopstTfpm2-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="394" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AKc9pMjTOJnopstTfpm2-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="414" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-4" target="AKc9pMjTOJnopstTfpm2-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="135" />
+              <mxPoint x="160" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-5" value="Корректно заполнить поля «Откуда» и «Куда»&lt;br&gt;Выбрать тип транспорта «Каршеринг» в режиме «Свой» и нажать кнопку &quot;Забронировать&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-3">
+          <mxGeometry x="-0.0143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-4" value="Форма выбора транспорта" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#F82BFF;" parent="1" vertex="1">
+          <mxGeometry x="339" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AKc9pMjTOJnopstTfpm2-5" target="AKc9pMjTOJnopstTfpm2-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-5" value="Форма подтверждения бронирования" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF1CE1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="890" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-6" target="Mg9zhPK-vFDKnxileMBy-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="585" />
+              <mxPoint x="700" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-27" value="Нажать на кнопку &quot;Добавить карту&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-26">
+          <mxGeometry x="-0.0207" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-6" value="Форма выбора карты" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF1FB4;" parent="1" vertex="1">
+          <mxGeometry x="530" y="555" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-7" target="AKc9pMjTOJnopstTfpm2-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="335" />
+              <mxPoint x="680" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-6" value="Нажать на иконку со стрелкой влево" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-4">
+          <mxGeometry x="0.0137" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-7" target="Mg9zhPK-vFDKnxileMBy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="380" />
+              <mxPoint x="120" y="380" />
+              <mxPoint x="120" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-13" value="Нажать на поле &quot;Добавить права&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-11">
+          <mxGeometry x="0.5558" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="350" as="sourcePoint" />
+            <mxPoint x="680" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="350" />
+              <mxPoint x="700" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-21" value="Нажать на кнопку «Добавить карту» &lt;br&gt;в поле &quot;Способ оплаты&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-12">
+          <mxGeometry x="0.3422" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-7" target="AKc9pMjTOJnopstTfpm2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-35" value="Заполнить корректно все поля формы бронирования каршеринга и нажал кнопку «Забронировать»" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-34">
+          <mxGeometry x="0.72" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-7" value="Форма бронирования каршеринга" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E540FF;" parent="1" vertex="1">
+          <mxGeometry x="339" y="320" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AKc9pMjTOJnopstTfpm2-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="394" y="990" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-1" target="AKc9pMjTOJnopstTfpm2-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-15" value="Нажать на кнопку &quot;Отмена&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-14">
+          <mxGeometry x="0.1525" relative="1" as="geometry">
+            <mxPoint y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-1" target="Mg9zhPK-vFDKnxileMBy-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="585" />
+              <mxPoint x="120" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-18" value="Внести все данные и нажать кнопку &quot;Добавить&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-17">
+          <mxGeometry x="-0.04" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-1" value="Форма добавления прав" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF1FB4;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="140" y="555" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="100" as="sourcePoint" />
+            <mxPoint x="340" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="120" />
+              <mxPoint y="350" />
+              <mxPoint x="339" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-8" value="Корректно заполнить поля «Откуда» и «Куда»&lt;br&gt;Выбрать тип транспорта&amp;nbsp; «Каршеринг» (если приложение даёт такую возможность)&lt;br&gt;&amp;nbsp;в режиме «Оптимальный» или «Быстрый» и нажать кнопку &quot;Забронировать&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-7">
+          <mxGeometry x="-0.0143" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-69" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-20" value="Нажать на кнопку &quot;Принято&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-19">
+          <mxGeometry x="-0.3984" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-16" value="Форма подтверждения отправки прав на проверку" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF1FB4;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="140" y="660" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.896;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AKc9pMjTOJnopstTfpm2-6" target="AKc9pMjTOJnopstTfpm2-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="473" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-23" value="Нажать на крестик" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-22">
+          <mxGeometry x="0.0634" y="2" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-24" target="AKc9pMjTOJnopstTfpm2-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="750" />
+              <mxPoint x="470" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-29" value="Нажать на кнопку &quot;Отмена&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-28">
+          <mxGeometry x="-0.1429" y="3" relative="1" as="geometry">
+            <mxPoint x="3" y="-48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-24" target="AKc9pMjTOJnopstTfpm2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-33" value="Заполнить обязательные поля &lt;br&gt;и нажать на кнопку &quot;Привязать&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-32">
+          <mxGeometry x="0.0497" relative="1" as="geometry">
+            <mxPoint y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-24" value="Форма добавления карты оплаты" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF1FB4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="750" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-24" target="AKc9pMjTOJnopstTfpm2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg9zhPK-vFDKnxileMBy-31" value="Нажать на крестик" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mg9zhPK-vFDKnxileMBy-30">
+          <mxGeometry x="0.1921" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
