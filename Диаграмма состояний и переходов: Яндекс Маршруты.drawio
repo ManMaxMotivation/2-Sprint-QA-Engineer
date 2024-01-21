@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T12:54:50.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NIYRZOAQawHfskbz1XAV" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-21T14:00:01.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eLqeOGcHwVDIFKd274-a" version="22.1.19" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2389" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,6 +270,22 @@
         </mxCell>
         <mxCell id="teK6GMSWzmJcEfpmg9Bi-9" value="Форма подтверждения отмены поездки" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF1CE1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="700" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="teK6GMSWzmJcEfpmg9Bi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.32;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-1" target="AKc9pMjTOJnopstTfpm2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="teK6GMSWzmJcEfpmg9Bi-13" value="Нажать на крестик" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="teK6GMSWzmJcEfpmg9Bi-12">
+          <mxGeometry x="0.2111" y="1" relative="1" as="geometry">
+            <mxPoint y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="teK6GMSWzmJcEfpmg9Bi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.405;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mg9zhPK-vFDKnxileMBy-16" target="AKc9pMjTOJnopstTfpm2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="teK6GMSWzmJcEfpmg9Bi-15" value="Нажать на крестик" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="teK6GMSWzmJcEfpmg9Bi-14">
+          <mxGeometry x="-0.7223" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
