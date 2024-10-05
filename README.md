@@ -1,6 +1,6 @@
 Яндекс Практикум
 Курс: Инженер по тестированию плюс
-Спринт №2 
+Проект 2: тест-анализ
 
 https://docs.google.com/document/d/1esNCx1gzi1yZ629tsEgkfPJEgZuAjerjNA4-VjPxGZ4/edit
 
